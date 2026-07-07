@@ -1,5 +1,5 @@
 # Quick Start Guide
-..............
+.............
 
 Get up and running in 5 minutes. Detailed guides are available in README.md, ADVANCED_GUIDE.md, and API_REFERENCE.md.
 
